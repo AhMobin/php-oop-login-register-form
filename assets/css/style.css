@@ -1,0 +1,22 @@
+.navbar{
+    background-color: darkgray;
+}
+
+.form-group > label{
+    font-weight: bold;
+    opacity: 0.8;
+}
+
+.heading2{
+    font-size: 1.7em;
+    display: inline;
+}
+
+.card_header_right{
+    font-size: 1.3em;
+    float: right;
+}
+
+.back-btn{
+    font-size: 1em;
+}
